@@ -15,6 +15,7 @@ The Dataset contains information on various category and sub-category and their 
 File Type: CSV
 
 The variables in the datasets are:
+
 Table1: Orders.csv
 order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
 
@@ -33,7 +34,7 @@ Insights :
 
 5) Most of the people have made their payment using credit card and COD mode.
 
-6)The Total profit of Madhav store including all state is 37k INR
+6) The Total profit of Madhav store including all state is 37k INR
 
 
 Learning Outcomes:
